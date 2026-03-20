@@ -8,14 +8,14 @@
 /* estiliza o corpo geral da página */
 body {
     font-family: Arial, sans-serif; /* define a fonte principal do site */
-    background-color: #f0f4f8; /* define a cor de fundo da página */
-    color: #333333; /* define a cor padrão dos textos */
+    background-color: #dc9eb8; /* define a cor de fundo da página */
+    color: #000000; /* define a cor padrão dos textos */
 }
 
 /* estiliza o cabeçalho */
 header {
-    background-color: #2b6cb0; /* define a cor de fundo do cabeçalho */
-    color: white; /* define a cor do texto do cabeçalho */
+    background-color: #e0dcb0; /* define a cor de fundo do cabeçalho */
+    color: rgb(0, 0, 0); /* define a cor do texto do cabeçalho */
     text-align: center; /* centraliza o texto dentro do cabeçalho */
     padding: 30px; /* adiciona espaçamento interno em todos os lados */
 }
